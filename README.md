@@ -9,9 +9,9 @@ This application provides you with current COVID-19 situation based on your loca
 - Follow the given design.
 
 ## Screenshot
-<img src="https://github.com/marwanadly/COVID19SituationDashboard/screenshots/1.png"></a>
-<img src="https://github.com/marwanadly/COVID19SituationDashboard/screenshots/2.png"></a>
-<img src="https://github.com/marwanadly/COVID19SituationDashboard/screenshots/3.png"></a>
+<img src="https://github.com/marwanadly/COVID19SituationDashboard/blob/master/screenshots/1.png"></a>
+<img src="https://github.com/marwanadly/COVID19SituationDashboard/blob/master/screenshots/2.pngg"></a>
+<img src="https://github.com/marwanadly/COVID19SituationDashboard/blob/master/screenshots/3.png"></a>
 
 ## Built With.
 
