@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COVID-19 Situation Dashboard</string>
+    <string name="card1_message">Swipe right to continue</string>
+    <string name="main_page_title">Latest Situation Reports</string>
+   <string name="location_services">Location Services</string>
+    <string name="enable_location_message">Please verify you\'ve switched Location to \"On\".</string>
+    <string name="turn_on_location_services">Turn on Location Services</string>
+    <string name="no_thanks">No thanks</string>
+    <string name="confirmed_cases">Confirmed Cases</string>
+</resources>
